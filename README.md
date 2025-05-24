@@ -1,31 +1,18 @@
-# Nama Proyek
+# 𝓗𝓮𝔂, 𝓘'� 𝓡𝓮𝔂! ☄️
 
-[![Video Welcome](![17480799531277242324030886613884](https://github.com/user-attachments/assets/6d827d97-23d4-4f48-b55e-e3771c43e033)
-)](https://www.youtube.com/watch?v=VIDEO_ID)
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDlqYzFmYjV0eXJkY3J3eG5jZ3R5b2V6dGJ5Z2NqZzV1bGZ1eWZ5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="300">
+</p>
 
-> Klik gambar di atas untuk menonton video pengantar proyek
+## 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 🌟
+- 🔮 𝓝𝓪𝓶𝓪: 𝓡𝓮𝔂
+- 📸 𝓘𝓖: [@reymwmwk112](https://www.instagram.com/reymwmwk112/)
+- 💻 𝓟𝓻𝓸𝓰𝓻𝓪𝓶𝓶𝓮𝓻 𝓲𝓷 𝓽𝓻𝓪𝓲𝓷𝓲𝓷𝓰
+- 🎌 𝓐𝓷𝓲𝓶𝓮 𝓛𝓸𝓿𝓮𝓻
 
-## Deskripsi
-Penjelasan singkat tentang proyek Anda. Apa yang dilakukan proyek ini? Mengapa proyek ini berguna?
-
-## Fitur Utama
-- Fitur 1
-- Fitur 2
-- Fitur 3
-
-## Cara Memulai
-
-### Prasyarat
-Daftar hal yang perlu diinstal sebelum menggunakan proyek:
-- Python 3.8+
-- Node.js 12+
-- DLL
-
-### Instalasi
-Langkah-langkah untuk menginstal dan menjalankan proyek:
-
+## 𝓘𝓷𝓼𝓽𝓪𝓵𝓵𝓪𝓽𝓲𝓸𝓷 🛠️
 ```bash
-git clone https://github.com/username/project.git
+git clone https://github.com/rey-mwmwk/project.git
 cd project
-pip install -r requirements.txt
-python app.py
+npm install
+npm start
