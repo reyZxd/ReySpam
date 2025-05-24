@@ -41,7 +41,7 @@ $ pkg install git
 
 $ git clone https://github.com/reyzXd/ReySpam
 
-$ cd Spambot
+$ cd ReySpam
 
 $ pip install psutil
 
