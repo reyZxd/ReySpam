@@ -39,7 +39,7 @@ $ pkg install python-pip
 
 $ pkg install git
 
-$ git clone https://github.com/Dra-Ganzz/Spambot
+$ git clone https://github.com/reyzXd/ReySpam
 
 $ cd Spambot
 
